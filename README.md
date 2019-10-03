@@ -1,6 +1,6 @@
 <h1>React Native Setup (Android)</h1>
 
-<h2>Boilerplate and instructions for setting up a React Native Android Application<h2>
+<h2>Boilerplate and instructions for setting up a React Native Android Application</h2>
 
 <p><a href="https://facebook.github.io/react-native/docs/getting-started.html" target="_blank">https://facebook.github.io/react-native/docs/getting-started.html</a></p>
 
@@ -29,4 +29,4 @@ Additional Steps:
 </ul>
 
 <p>by JSON-G</p>
-<p>at the time of this writing versions used were: android studio 3.5; gradle 5.4.1; react-native-cli 2.0.1; node v10.14.1; java sdk, jdk/jre utilized were that of the default kits installed with android studio</p>
+<p><small>at the time of this writing versions used were: android studio 3.5; gradle 5.4.1; react-native-cli 2.0.1; node v10.14.1; java sdk, jdk/jre utilized were that of the default kits installed with android studio</small></p>
