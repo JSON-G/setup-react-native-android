@@ -14,7 +14,7 @@ Requirements:
 
 <ol>
 Instructions:
-<li>Just read and try to follow the instructions on the docs link above until you execute `react-native run-android`. Also make sure to install all necessary components that Android Studio needs such as `Android SDK Platform 28` and `Intel x86 Atom_64 System Image` or `Google APIs Intel x86 Atom System Image`</li>
+  <li>Just read and try to follow the instructions on the <a href="https://facebook.github.io/react-native/docs/getting-started.html" target="_blank">docs link</a> above until you execute `react-native run-android`. Also make sure to install all necessary components that Android Studio needs such as `Android SDK Platform 28` and `Intel x86 Atom_64 System Image` or `Google APIs Intel x86 Atom System Image`</li>
 <li>Executing `react-native run-android` will fail. Do additional steps below</li>
 <li>Go to the Android folder of the project then create/open the file `local.properties` add the line `sdk.dir = D:\\Android\\sdk` to it... where `D:\\Android\\sdk` is the path to your Android Studio Java SDK</li>
 <li>Go to the Android folder of the project then open the file `gradle.properties` add the line `org.gradle.java.home=D:\\Android\\Android Studio\\jre` to it... where `D:\\Android\\Android Studio\\jre` is the path to your Android Studio Java JDK/JRE</li>
