@@ -4,6 +4,8 @@
 
 <p><a href="https://facebook.github.io/react-native/docs/getting-started.html" target="_blank">https://facebook.github.io/react-native/docs/getting-started.html</a></p>
 
+<p>run `npm install` on cloning this repo to install necessary node modules</p>
+
 <ul>
 Requirements:
 <li>Android Studio</li>
