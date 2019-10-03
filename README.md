@@ -1,4 +1,4 @@
-<h1>React Native Setup (Android)</h1>
+<h1>React Native Application Setup (Android)</h1>
 
 <h2>Boilerplate and instructions for setting up a React Native Android Application</h2>
 
